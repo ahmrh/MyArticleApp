@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyArticleApp</string>
+    <string name="article_title">Article Title</string>
+    <string name="overview">Overview</string>
+    <string name="action_profile">Action Profile</string>
+
+
+    <string name="lorem"> Lorem ipsum dolor si amet</string>
+
+</resources>
